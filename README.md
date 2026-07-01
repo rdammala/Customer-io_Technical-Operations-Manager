@@ -2,7 +2,7 @@
 
 Role-specific portfolio for Technical Operations Manager opportunities.
 
-**Live:** https://rdammala.github.io/Customer-io_Technical-Operations-Manager/
+**Live:** https://rdammala-org.github.io/Customer-io_Technical-Operations-Manager/
 
 ## Stack
 Vanilla HTML / CSS / JS · Google Fonts (Inter) · dark/light theme.
